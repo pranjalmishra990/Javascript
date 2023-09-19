@@ -1,6 +1,6 @@
 let mapp =  {
     "apple" : "fruit",
-    "cat" : "animal",
+     cat : "animal",
 }
 
 for (let a in mapp){
