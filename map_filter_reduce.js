@@ -7,8 +7,7 @@ arr1.map(val =>{
 
 let arr2 =  [14,23,36,487,54]
 let arr3 = arr2.filter(val=>{
-    if (val%2 == 0)
-    return val
+    return val%2 == 0
 })
 console.log(arr3)
 
